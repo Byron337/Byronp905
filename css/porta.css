@@ -385,7 +385,7 @@ section nav ul li
     }
     .social{
     	position: fixed;
-    	top:75%;
+    	top:50%;
     	right:0px;
     	transform:translateY(-50%);
     }
@@ -440,10 +440,10 @@ section nav ul li
     	color:#fff;
     	font-family: verdana;
     	font-weight:bold;
-    	font-size: 50px;
+    	font-size: 40px;
     	line-height:40px;
 		text-align: left;
-		margin: 20%  auto 20px auto;
+		margin: 10%  auto 20px auto;
 		
     	}
     	.about-text p:nth-child(2){
